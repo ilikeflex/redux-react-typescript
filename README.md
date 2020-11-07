@@ -45,4 +45,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-Hope this works
+https://www.freecodecamp.org/news/how-to-use-redux-in-your-react-typescript-app/
+https://www.ibrahima-ndaw.com/
